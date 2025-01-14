@@ -79,7 +79,8 @@ The Jenkins pipeline (`Jenkinsfile`) includes the following stages:
 8. **Docker Build & Push**: Builds and pushes the Docker image to Docker Hub.
 9. **Trivy Image Scan**: Scans the Docker image using Trivy.
 10. **Deploy to Container**: Deploys the Netflix application to a Docker container.
-![image](https://github.com/user-attachments/assets/137a69d6-267a-4df6-96e8-3df1e7048222)
+![image](https://github.com/user-attachments/assets/5110f967-6397-4f7b-8733-8d026a7b4eee)
+
 
 
 ---
@@ -126,16 +127,15 @@ A huge thanks to the **Cloud Champ YouTube channel** for providing guidance and 
 Access the monitoring tools using the following URLs:
 - **Grafana**: `http://<monitoring-server-public-ip>:3000`
 - **Prometheus**: `http://<monitoring-server-public-ip>:9090`
-![image](https://github.com/user-attachments/assets/3a3f017d-88eb-4627-838f-19d4d3a2cdb1)
-![image](https://github.com/user-attachments/assets/06680bd8-136c-4e7b-be80-4e3c3bc61dab)
+![image](https://github.com/user-attachments/assets/3b8c90b2-0120-4a2c-869a-11dd950a90b0)
+![image](https://github.com/user-attachments/assets/498374c8-1e4f-4bdb-846a-b2f5df2652e4)
+
 
 ---
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
+This project is licensed under the MIT License. Feel free to use, modify, and share!
 
 ## Contact
 
